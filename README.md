@@ -101,7 +101,7 @@ Your Supabase **anon key** should be kept secure even though it's used client-si
 
 ---
 
-## 📸 Screenshots (optional)
+## 📸 Screenshots
 
 > Coming soon! Want help capturing and embedding visuals?
 
